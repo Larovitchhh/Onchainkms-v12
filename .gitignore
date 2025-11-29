@@ -1,0 +1,27 @@
+# Node
+node_modules/
+npm-debug.log
+yarn.lock
+package-lock.json
+
+# Builds
+dist/
+build/
+
+# Logs
+*.log
+logs/
+pm2-logs/
+
+# Environment (no subir JAMÁS)
+.env
+.env.local
+.env.production
+
+# System
+.DS_Store
+.vscode/
+.idea/
+
+# Artefactos
+project-structure.txt
